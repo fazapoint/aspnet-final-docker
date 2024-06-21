@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RapidBootcamp.BackendAPI.props" />
+</Project>

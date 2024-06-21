@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rapidBC2024\\docker\\RapidBootcamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|d:\\rapidbc2024\\docker\\rapidbootcamp\\rapidbootcamp.backendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|solutionrelative:rapidbootcamp.backendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|d:\\rapidbc2024\\docker\\rapidbootcamp\\rapidbootcamp.backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|solutionrelative:rapidbootcamp.backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|d:\\rapidbc2024\\docker\\rapidbootcamp\\rapidbootcamp.backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|solutionrelative:rapidbootcamp.backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|d:\\rapidbc2024\\docker\\rapidbootcamp\\rapidbootcamp.backendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E89C09F-A803-45CF-9144-452CCB87F2BD}|RapidBootcamp.BackendAPI\\RapidBootcamp.BackendAPI.csproj|solutionrelative:rapidbootcamp.backendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RapidBootcamp.BackendAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\appsettings.Development.json",
+              "RelativeToolTip": "RapidBootcamp.BackendAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T18:18:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RapidBootcamp.BackendAPI\\appsettings.json",
+              "ToolTip": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\appsettings.json",
+              "RelativeToolTip": "RapidBootcamp.BackendAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T18:18:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RapidBootcamp.BackendAPI\\Program.cs",
+              "ToolTip": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\Program.cs",
+              "RelativeToolTip": "RapidBootcamp.BackendAPI\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:54:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RapidBootcamp.BackendAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\rapidBC2024\\docker\\RapidBootcamp\\RapidBootcamp.BackendAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RapidBootcamp.BackendAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T17:29:21.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
